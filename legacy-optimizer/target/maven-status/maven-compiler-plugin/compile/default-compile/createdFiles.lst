@@ -1,0 +1,6 @@
+com\tcsoptimizer\legacy_optimizer\LegacyOptimizerApplication.class
+com\example\codeanalyzer\service\ReportExportService.class
+com\tcsoptimizer\legacy_optimizer\controller\JavaAnalyzerController.class
+com\example\codeanalyzer\service\CyclomaticComplexityService.class
+com\example\codeanalyzer\service\CodeSmellService.class
+com\example\codeanalyzer\service\JavaMetricsService.class
